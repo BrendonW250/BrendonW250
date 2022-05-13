@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/bwright250" target="blank"><img src="https://img.shields.io/twitter/follow/bwright250?logo=twitter&style=for-the-badge" alt="bwright250" /></a> </p>
 
+<!-- <h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2"> -->
+
 - 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://brendonwright.netlify.app/](https://brendonwright.netlify.app/)
